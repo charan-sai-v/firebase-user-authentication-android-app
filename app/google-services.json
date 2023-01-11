@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "52728236884",
+    "project_id": "fir-4fd54",
+    "storage_bucket": "fir-4fd54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52728236884:android:40841cc07b330ab09b56c1",
+        "android_client_info": {
+          "package_name": "com.wpless.sampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52728236884-l3emsrvbegndasa8ist598a2nv3podg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBiDPoUM7mALREPw2LXRCCLSy7SVWQO7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52728236884-l3emsrvbegndasa8ist598a2nv3podg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
